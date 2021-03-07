@@ -42,7 +42,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 ### Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-#Thanks to Kraken_The_BadASS(https://t.me/Kraken_The_BadASS
+###Thanks to [Kraken_The_BadASS](https://t.me/Kraken_The_BadASS
 
 ## Credits
 
