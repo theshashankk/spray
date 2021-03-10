@@ -18,7 +18,7 @@ Use the buttons below to know more about me.""",
             [
                 [
                     InlineKeyboardButton(
-                        "⚒ Source code", url="https://t.me/Gamerzbots"
+                        "⚒ Source code", url="https://github.com/gamerfuckerofficial/MusicBot"
                     )
                 ],
                 [
@@ -26,7 +26,7 @@ Use the buttons below to know more about me.""",
                         "💬 Group", url="https://t.me/miakhalifachatgroup"
                     ),
                     InlineKeyboardButton(
-                        "Channel 🔈", url="https://t.me/Gamerzbots"
+                        "Channel 🔈", url="https://t.me/CheemsUserbot"
                     )
                 ]
             ]
