@@ -11,7 +11,7 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>👋🏻 Hi {message.from_user.first_name}!</b>
 
-I am CheemsBot Music Player, an open-source bot that lets you play music in your Telegram groups.
+I am ĆĦ€€ΜŞβØŦ Music Player, an open-source bot that lets you play music in your Telegram groups.
 
 Use the buttons below to know more about me.""",
         reply_markup=InlineKeyboardMarkup(
