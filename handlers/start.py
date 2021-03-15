@@ -18,7 +18,7 @@ Use the buttons below to know more about me.""",
             [
                 [
                     InlineKeyboardButton(
-                        "⚒ Source code", url="https://github.com/gamerfuckerofficial/MusicBot"
+                        "⚒COMMANDS", url="https://telegra.ph/MusicBot-Robot-MusicBot-Robo-03-14"
                     )
                 ],
                 [
